@@ -2,6 +2,8 @@
 
 int main()
 (
-printf("Dobro dosli");;
+printf("Dobro dosli");
+printf("Dobro dosli");
+printf("Dobro dosli");
 return 0;
 )
